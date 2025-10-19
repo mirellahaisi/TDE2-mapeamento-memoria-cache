@@ -1,7 +1,8 @@
 # 📌 TDE2 mapeamneto de memória cache
 
 ### 🎬 Vídeo de Apresentação
-🔗 *Link para o vídeo aqui*
+🔗 [Assista ao vídeo no YouTube](https://youtu.be/cRv6_Jtlqfk)
+
 
 ---
 
