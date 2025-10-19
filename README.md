@@ -24,5 +24,5 @@ O objetivo é observar o comportamento de cada algoritmo ao simular o carregamen
 
 ### 👥 Integrantes
 - Mirella Haisi Szvarça  
-- João Lucas Prado Ribeiro
+- João Lucas do Prado Ribeiro
 
